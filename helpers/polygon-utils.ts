@@ -95,7 +95,7 @@ export const verifyAtPolygon = async (
       {
         addressHash: instance.address,
         name: id,
-        compilerVersion: 'v0.6.12+commit.27d51765',
+        compilerVersion: 'v0.8.6+commit.11564f7e',
         optimization: 'true',
         contractSourceCode: cleanedSourceCode,
         constructorArguments: encodedConstructorParams,
